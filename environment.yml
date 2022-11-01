@@ -4,5 +4,5 @@ dependencies:
 - scikit-learn
 - pandas
 - numpy
-- tensorflow<1.4.1
+- tensorflow<2.3
 - keras

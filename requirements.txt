@@ -14,7 +14,6 @@ backports.zoneinfo==0.2.1
 base58==2.1.1
 bayesian-optimization==1.2.0
 bitarray==2.6.0
-blankly==1.18.4b0
 blinker==1.5
 blis==0.7.8
 bokeh==2.4.3

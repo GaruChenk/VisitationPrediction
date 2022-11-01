@@ -4,7 +4,6 @@ aiosignal==1.2.0
 alpaca-trade-api==2.3.0
 altair==4.2.0
 antlr4-python3-runtime==4.9.3
-appnope @ file:///Users/ktietz/demo/mc3/conda-bld/appnope_1629146036738/work
 APScheduler==3.9.1
 argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
 argon2-cffi-bindings @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/croot-wbf5edig/argon2-cffi-bindings_1644845754377/work

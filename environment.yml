@@ -3,9 +3,10 @@ dependencies:
 - python = 3.8.13
 - pandas
 - numpy
+- libclang
+- protobuf
+- tensorflow-io-gcs-filesystem
 - tensorflow
 - keras
 - numpy
 - scikit-learn
-- libclang
-- protobuf

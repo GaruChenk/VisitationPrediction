@@ -1,6 +1,7 @@
 name: stats
 dependencies:
 # - python=3.8.13
+- libgcc
 - scipy
 - scikit-learn
 - pandas

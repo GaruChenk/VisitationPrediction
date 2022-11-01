@@ -5,7 +5,6 @@ dependencies:
 - numpy
 - libclang
 - protobuf
-- tensorflow-io-gcs-filesystem
 - tensorflow
 - keras
 - numpy

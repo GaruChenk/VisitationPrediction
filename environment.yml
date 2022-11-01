@@ -1,5 +1,6 @@
 name: stats
 dependencies:
+- python = 
 - pandas
 - numpy
 - tensorflow
@@ -8,5 +9,4 @@ dependencies:
 - scikit-learn
 - matplotlib
 - libclang
-- tensorflow-io-gcs-filesystem
 - protobuf

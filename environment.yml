@@ -1,6 +1,6 @@
 name: stats
 dependencies:
-- python = 3.8.1
+- python = 3.8.13
 - pandas
 - numpy
 - keras

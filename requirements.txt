@@ -124,7 +124,6 @@ PyMeeus==0.5.11
 Pympler==1.0.1
 pyparsing==3.0.9
 PyQt5==5.15.2
-PyQt5_sip==4.19.25
 PyQtChart==5.15.2
 pyreadstat==1.1.9
 PySocks==1.7.1

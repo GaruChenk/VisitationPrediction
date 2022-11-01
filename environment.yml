@@ -1,11 +1,12 @@
 name: stats
 dependencies:
-- python = 3.8.13
+- python=3.8.13
 - pandas
 - numpy
-- libclang = 9.0.1
-- protobuf = 3.9.2
-- tensorflow = 2.9.2
+- libclang=>=9.0.1
+- protobuf<3.20,>=3.9.2
+- tensorflow-io-gcs-filesystem>=0.23.1
+- tensorflow=2.9.2
 - keras
 - numpy
 - scikit-learn

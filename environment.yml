@@ -1,7 +1,0 @@
-name: stats
-dependencies:
-# - python=3.8.13
-- libstdc++6
-- tensorflow<2.8.2
-- keras
-- scikit-learn

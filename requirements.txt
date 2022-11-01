@@ -65,7 +65,7 @@ h11==0.13.0
 hexbytes==0.3.0
 huggingface-hub==0.7.0
 idna==3.3
-importlib-metadata==5.0.0
+importlib-metadata
 ipfshttpclient==0.8.0a2
 keras==2.9.0
 Keras-Preprocessing==1.1.2

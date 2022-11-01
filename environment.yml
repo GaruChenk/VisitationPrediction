@@ -2,7 +2,6 @@ name: stats
 dependencies:
 # - python=3.8.13
 
-- tensorflow<2.4.1
+- tensorflow
 - keras
-- numpy
 - scikit-learn

@@ -1,0 +1,9 @@
+name: stats
+dependencies:
+- pandas
+- numpy
+- tensorflow
+- keras
+- numpy
+- scikit-learn
+- matplotlib

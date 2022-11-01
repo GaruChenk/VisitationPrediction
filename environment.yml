@@ -1,6 +1,6 @@
 name: stats
 dependencies:
-- python=3.8.13
+# - python=3.8.13
 - pandas
 - numpy=1.19.2
 - six=1.15.0

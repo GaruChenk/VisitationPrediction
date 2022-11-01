@@ -12,7 +12,6 @@ atomicwrites==1.4.1
 axial-positional-embedding==0.2.1
 backports.zoneinfo==0.2.1
 base58==2.1.1
-bayesian-optimization==1.2.0z
 bitarray==2.6.0
 blinker==1.5
 blis==0.7.8

@@ -7,6 +7,5 @@ dependencies:
 - tensorflow
 - numpy
 - scikit-learn
-- matplotlib
 - libclang
 - protobuf

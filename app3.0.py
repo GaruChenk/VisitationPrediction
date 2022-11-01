@@ -1,23 +1,13 @@
 import pandas as pd
 import numpy as np
 import pandas as pd
-import tensorflow as tf
 import keras.models
-import os
 import numpy as np
-import sched, time
-from keras.layers import LSTM, Dense, Dropout, Bidirectional, GRU
-from sklearn.preprocessing import StandardScaler, OrdinalEncoder, MinMaxScaler
+from keras.layers import LSTM, Dense, Dropout, Bidirectional
+from sklearn.preprocessing import MinMaxScaler
 from keras.models import Sequential
-import joblib   
-from gc import callbacks
-from tensorflow.keras import layers
-from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
+from sklearn.metrics import mean_squared_error, r2_score
 import math
-import matplotlib.pyplot as plt
-from calendar import month
-from datetime import datetime
-from tkinter import Scale
 import streamlit as st
 import pandas as pd
 

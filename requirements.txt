@@ -162,7 +162,6 @@ statsmodels==0.13.2
 streamlit
 sympy==1.6
 ta==0.10.1
-TA-Lib==0.4.24
 tensorboard==2.9.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1

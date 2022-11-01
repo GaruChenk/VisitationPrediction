@@ -125,7 +125,6 @@ PyQt5==5.15.2
 PyQtChart==5.15.2
 pyreadstat==1.1.9
 PySocks==1.7.1
-pystan==2.19.1.1
 pytesseract==0.3.10
 pytest==4.6.11
 python-binance==1.0.16

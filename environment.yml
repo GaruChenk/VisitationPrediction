@@ -2,8 +2,7 @@ name: stats
 dependencies:
 # - python=3.8.13
 - libgcc
-- scipy
-- scikit-learn
+- scikit-learn>1.0.2
 - pandas
 - numpy
 - tensorflow<2.4.1

@@ -3,8 +3,8 @@ dependencies:
 - python = 3.8.13
 - pandas
 - numpy
-- keras
 - tensorflow
+- keras
 - numpy
 - scikit-learn
 - libclang

@@ -12,7 +12,7 @@ atomicwrites==1.4.1
 axial-positional-embedding==0.2.1
 backports.zoneinfo==0.2.1
 base58==2.1.1
-bayesian-optimization==1.2.0
+bayesian-optimization==1.2.0z
 bitarray==2.6.0
 blinker==1.5
 blis==0.7.8
@@ -76,7 +76,7 @@ libclang==14.0.1
 local-attention==1.4.3
 lru-dict==1.1.8
 lxml==4.9.1
-Markdown==3.3.7
+Markdown
 more-itertools==8.14.0
 mpmath==1.0.0
 msgpack==1.0.3
@@ -160,7 +160,7 @@ spacy-legacy==3.0.9
 spacy-loggers==1.0.3
 srsly==2.4.4
 statsmodels==0.13.2
-streamlit==1.13.0
+streamlit
 sympy==1.6
 ta==0.10.1
 TA-Lib==0.4.24
@@ -176,7 +176,7 @@ toml==0.10.2
 toolz==0.12.0
 torch==1.11.0
 torchmetrics==0.9.0
-tox==3.13.2
+tox
 tqdm==4.64.0
 transformers==4.19.2
 trio==0.21.0
